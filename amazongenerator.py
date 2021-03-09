@@ -1,6 +1,6 @@
 import random
 import os
-## https://discord.gg/tTgmEjK
+## https://discord.gg/kAHZFTgFC7
 print("""
 
  █████╗ ███╗   ███╗ █████╗ ███████╗ ██████╗ ███╗   ██╗     ██████╗ ██████╗ ██████╗ ███████╗
